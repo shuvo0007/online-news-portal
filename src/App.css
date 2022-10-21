@@ -8,9 +8,6 @@
 }
 
 .App-header {
-  background-image: url(components/img/body-bg.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
